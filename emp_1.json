@@ -1,0 +1,27 @@
+{
+    "db": "xxxxxxzzzz",
+    "tableName": "abc_table",
+"transfermation": "update",
+    "ColumnNames": [
+        {
+            
+            "source": "col1",
+            "dest": "dest_col1",
+		"datatype": "int"
+            
+        },
+        {
+            
+            "source": "col2",
+            "dest": "dest_col3",
+            "datatype": "string"
+        },
+        {
+            
+            "source": "col3",
+            "dest": "dest_col2",
+	"datatype": "double"
+            
+        }
+    ]
+}
